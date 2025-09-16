@@ -10,5 +10,8 @@
   "devDependencies": {
     "@playwright/test": "^1.55.0",
     "@types/node": "^24.4.0"
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
   }
 }
